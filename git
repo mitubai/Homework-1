@@ -1,0 +1,8 @@
+git init
+git remote add origin link
+
+
+git add ./namefile
+git commit -m 'lesson1'
+git push origin main/master
+
