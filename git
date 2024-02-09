@@ -1,6 +1,7 @@
 git init
 git remote add origin link
 
+git ignore
 
 git add ./namefile
 git commit -m 'lesson1'
